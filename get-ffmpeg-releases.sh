@@ -71,7 +71,7 @@ else
 		OPT_VER092=1
 		OPT_SUPPORTED=1
 	elif [ "$1" == "0.8.12" ]; then
-		OPT_VER08812=1
+		OPT_VER0812=1
 		OPT_SUPPORTED=1
 	elif [ "$1" == "0.7.14" ]; then
 		OPT_VER0714=1
